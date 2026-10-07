@@ -1,6 +1,3 @@
-Copy everything inside this single section into your `README.md`:
-
-```markdown
 # 🩺 AI-Based Liver Disease Prediction
 ### PCA + Machine Learning + Explainable AI + AI Liver Health Assistant
 
@@ -12,7 +9,6 @@ The project combines **data preprocessing, feature scaling, PCA dimensionality r
 
 ## 🚀 Project Pipeline
 
-```text
 Indian Liver Patient Dataset (ILPD)
                 ↓
         Data Preprocessing
@@ -40,8 +36,7 @@ Indian Liver Patient Dataset (ILPD)
       Streamlit Dashboard
                 ↓
              Report
-```
-
+             
 ---
 
 ## ✨ Features
