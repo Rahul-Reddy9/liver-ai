@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+streamlit
+anthropic   # optional: only for the LLM-powered assistant
